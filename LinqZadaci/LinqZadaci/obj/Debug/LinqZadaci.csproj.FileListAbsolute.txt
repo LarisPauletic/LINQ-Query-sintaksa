@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\LinqZadaci\LinqZadaci\obj\Debug\LinqZadaci.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\LinqZadaci\LinqZadaci\obj\Debug\LinqZadaci.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\LinqZadaci\LinqZadaci\bin\Debug\LinqZadaci.exe.config
+C:\Users\Laris\source\repos\LinqZadaci\LinqZadaci\bin\Debug\LinqZadaci.exe
+C:\Users\Laris\source\repos\LinqZadaci\LinqZadaci\bin\Debug\LinqZadaci.pdb
+C:\Users\Laris\source\repos\LinqZadaci\LinqZadaci\obj\Debug\LinqZadaci.exe
+C:\Users\Laris\source\repos\LinqZadaci\LinqZadaci\obj\Debug\LinqZadaci.pdb
